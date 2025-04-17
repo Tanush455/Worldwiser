@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "d520",
+      "cityName": "Portimao",
+      "emoji": "🇵🇹",
+      "country": "PT",
+      "date": "2024-10-12",
+      "notes": "",
+      "position": {
+        "lat": "37.23032838760387",
+        "lng": "-8.591308593750002"
+      }
+    },
+    {
+      "id": "ebbd",
+      "cityName": "Castello de la Plana",
+      "emoji": "🇪🇸",
+      "country": "ES",
+      "date": "2024-10-12",
+      "notes": "",
+      "position": {
+        "lat": "40.009340851001646",
+        "lng": "0.007724761962890626"
+      }
+    },
+    {
+      "id": "3427",
+      "cityName": "Sanand",
+      "emoji": "🇮🇳",
+      "country": "IN",
+      "date": "2024-10-12",
+      "notes": "",
+      "position": {
+        "lat": "23.02302594920415",
+        "lng": "72.44092941284181"
+      }
+    }
+  ]
+}
